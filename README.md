@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![About Me](https://github.com/serhatsait/serhatsait/serhat.gif)
+![About Me](https://github.com/serhatsait/serhatsait/raw/master/serhat.gif)
 
 ![Serhat Sait github stats](https://github-readme-stats.vercel.app/api?username=serhatsait&theme=darcula&show_icons=true)
 
